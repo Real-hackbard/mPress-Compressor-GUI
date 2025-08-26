@@ -1,6 +1,7 @@
 # mPress-Compressor-GUI
 MPRESS is a free, high-performance executable packer for PE32/PE32+/.NET/MAC-DARWIN executable formats!
 
+</br>
 
 ```ruby
 Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
@@ -10,16 +11,19 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
+</br>
+
 MPRESS makes programs and libraries smaller, and decrease start time when the application loaded from a slow removable media or from the network. It uses in-place decompression technique, which allows to decompress the executable without memory overhead or other drawbacks; it also protects programs against reverse engineering by non-professional hackers. Programs compressed with MPRESS run exactly as before, with no runtime performance penalties.
 MPRESS is absolutely free of charge software.
 MPRESS uses own LZMAT - extremely fast data compression library.
 Version 2.00 of the MATCODE Compressor has been released on 21st March 2009, now MPRESS has an optional LZMA compression.
 in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below.
 
+</br>
 
 ![mPress Compressor GUI](https://github.com/user-attachments/assets/08b297d4-e9ff-4d21-8039-bab74f1558ee)
 
-
+</br>
 
 ### MPRESS Features
 
