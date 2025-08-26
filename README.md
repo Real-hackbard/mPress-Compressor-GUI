@@ -44,11 +44,11 @@ Operation Systems: Windows 9x/NT/2000/XP/2003/Vista/2008/Windows7,Windows8, Wind
 Platforms: x86(PE32), x64(PE32+,AMD64), .NET
 
 ### Versions :  
-Download MPRESS v2.19: http://www.matcode.com/mpress.219.zip  
-Download MPRESS v2.18: http://www.matcode.com/mpress.218.zip  
-Download MPRESS v1.27: http://www.matcode.com/mpress.127.zip  
-Download MAC-MPRESS v1.21 (for MAC Applications ONLY!): http://www.matcode.com/mac-mpress.tar.gz  
-Link to download Mpress GUI v0.2 (by DonDD) Mpress GUI v0.2:  https://web.archive.org/web/20150328171817/http://www.multiupload.com/TA1704QH5Z
+Download MPRESS v2.19: https://www.autohotkey.com/mpress/mpress_web.htm  
+Download MPRESS v2.18: https://www.autohotkey.com/mpress/mpress_web.htm  
+Download MPRESS v1.27: https://www.autohotkey.com/mpress/mpress_web.htm  
+Download MAC-MPRESS v1.21 (for MAC Applications ONLY!): https://www.autohotkey.com/mpress/mpress_web.htm  
+Link to download Mpress GUI v0.2 (by DonDD) Mpress GUI v0.2: https://www.autohotkey.com/mpress/mpress_web.htm  
 
 
 ### LZMAT
