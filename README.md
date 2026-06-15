@@ -84,6 +84,8 @@ In computing, a hex dump is a textual hexadecimal view (on screen or paper) of c
 
 In a hex dump, each byte (8 bits) is represented as a two-digit hexadecimal number. Hex dumps are commonly organized into rows of 8 or 16 bytes, sometimes separated by whitespaces. Some hex dumps have the hexadecimal memory address at the beginning. On systems where the conventional representation of data is [octal](https://en.wikipedia.org/wiki/Octal), the equivalent is an octal dump.
 
+This dumpHEX is not an editor in the true sense and only features a search function for ASCII characters.
+
 </br>
 
 <img src="https://github.com/user-attachments/assets/c96912d3-d550-441d-b788-fed4b0ac0a49" />
