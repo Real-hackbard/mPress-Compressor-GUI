@@ -111,6 +111,22 @@ An additional column shows the corresponding [ASCII character](https://en.wikipe
 00000075
 ```
 
+This is helpful when trying to locate TAB characters in a file which is expected to use multiple spaces.
+
+The ```-v``` option causes hexdump to display all data verbosely:
+
+```asm
+00000000  30 31 32 33 34 35 36 37  38 39 41 42 43 44 45 46  |0123456789ABCDEF|
+00000010  0a 2f 2a 20 2a 2a 2a 2a  2a 2a 2a 2a 2a 2a 2a 2a  |./* ************|
+00000020  2a 2a 2a 2a 2a 2a 2a 2a  2a 2a 2a 2a 2a 2a 2a 2a  |****************|
+00000030  2a 2a 2a 2a 2a 2a 2a 2a  2a 2a 2a 2a 2a 2a 2a 2a  |****************|
+00000040  2a 2a 20 2a 2f 0a 09 54  61 62 6c 65 20 77 69 74  |** */..Table wit|
+00000050  68 20 54 41 42 73 20 28  30 39 29 0a 09 31 09 09  |h TABs (09)..1..|
+00000060  32 09 09 33 0a 09 33 2e  31 34 09 36 2e 32 38 09  |2..3..3.14.6.28.|
+00000070  39 2e 34 32 0a                                    |9.42.|
+00000075
+```
+
 </br>
 
 # Simple Compress Report:
