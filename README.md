@@ -46,8 +46,6 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 Operation Systems: Windows 9x/NT/2000/XP/2003/Vista/2008/Windows7,Windows8, Windows10, MAC-OS 10.3/10.4
 Platforms: x86(PE32), x64(PE32+,AMD64), .NET
 
-</br>
-
 ### Versions :  
 Download MPRESS v2.19: https://www.autohotkey.com/mpress/mpress_web.htm  
 Download MPRESS v2.18: https://www.autohotkey.com/mpress/mpress_web.htm  
