@@ -37,7 +37,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 * Very fast decompression: ~210 MB/sec on an AMD 2500+
 * Strip sensitive information (relocation, debug information, exceptions, etc.)
 * Compression of program code, data, and resources
-* Completely transparent, self-contained operation with UNICODE support
+* Completely transparent, self-contained operation with [UNICODE](https://en.wikipedia.org/wiki/Unicode) support
 * Command line interface allows to use MPRESS from a batch or from a make file
 * Full Windows 9x/NT/2000/XP/2003/Vista/2008/Windows8 compatibility
 * Operation Systems: Windows 9x/NT/2000/XP/2003/Vista/2008/Windows7, MAC-OS 10.3/10.4
