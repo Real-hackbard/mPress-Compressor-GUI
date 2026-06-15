@@ -50,8 +50,10 @@ Platforms: x86(PE32), x64(PE32+,AMD64), .NET
 Download MPRESS v2.19: https://www.autohotkey.com/mpress/mpress_web.htm  
 Download MPRESS v2.18: https://www.autohotkey.com/mpress/mpress_web.htm  
 Download MPRESS v1.27: https://www.autohotkey.com/mpress/mpress_web.htm  
-Download MAC-MPRESS v1.21 (for MAC Applications ONLY!): https://www.autohotkey.com/mpress/mpress_web.htm  
-Link to download Mpress GUI v0.2 (by DonDD) Mpress GUI v0.2: https://www.autohotkey.com/mpress/mpress_web.htm  
+Download MAC-MPRESS v1.21 (for MAC Applications ONLY!):  
+https://www.autohotkey.com/mpress/mpress_web.htm  
+Link to download Mpress GUI v0.2 (by DonDD) Mpress GUI v0.2:   
+https://www.autohotkey.com/mpress/mpress_web.htm  
 
 
 # LZMAT
