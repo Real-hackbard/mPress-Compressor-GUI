@@ -112,7 +112,6 @@ An additional column shows the corresponding [ASCII character](https://en.wikipe
 ```
 
 This is helpful when trying to locate TAB characters in a file which is expected to use multiple spaces.
-
 The ```-v``` option causes hexdump to display all data verbosely:
 
 ```asm
