@@ -91,6 +91,7 @@ In a hex dump, each byte (8 bits) is represented as a two-digit hexadecimal numb
 <img src="https://github.com/user-attachments/assets/c96912d3-d550-441d-b788-fed4b0ac0a49" />
 
 </br>
+</br>
 
 The leftmost column is the hexadecimal displacement (or address) for the values of the following columns. Each row displays 16 bytes, with the exception of the row containing a single *. The * is used to indicate multiple occurrences of the same display were omitted. The last line displays the number of bytes taken from the input.
 
