@@ -75,3 +75,10 @@ Download LZMAT compression library v1.0:  http://www.matcode.com/lzmat_lib.zip
 Download LZMAT_GUI application v0.51:  http://www.matcode.com/lzmat_gui.zip
 
 If the link doesn't work, right mouse button "Save target as".
+
+# Simple Compress Report:
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/1e895651-d5f1-412b-bfeb-9129988b4daf" />
+
