@@ -76,6 +76,11 @@ Download LZMAT_GUI application v0.51:  http://www.matcode.com/lzmat_gui.zip
 
 If the link doesn't work, right mouse button "Save target as".
 
+# DumpHEX:
+In computing, a hex dump is a textual hexadecimal view (on screen or paper) of computer data, from memory or from a computer file or storage device. Use of a hex dump of data is usually done in the context of either debugging, [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering) or digital forensics. Interactive editors that provide a similar view but also manipulating the data in question are called hex editors.
+
+In a hex dump, each byte (8 bits) is represented as a two-digit hexadecimal number. Hex dumps are commonly organized into rows of 8 or 16 bytes, sometimes separated by whitespaces. Some hex dumps have the hexadecimal memory address at the beginning. On systems where the conventional representation of data is octal, the equivalent is an octal dump.
+
 # Simple Compress Report:
 
 </br>
