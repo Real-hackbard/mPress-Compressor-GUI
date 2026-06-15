@@ -30,7 +30,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 * Support for MS Framework 1.1/2.0/3.0/4.0
 * Does not require .NET Framework to be installed
 * Advanced compression of PE32/PE32+ (AMD64) executable files ([EXE](https://en.wikipedia.org/wiki/.exe), [DLL](https://en.wikipedia.org/wiki/Dynamic-link_library), [OCX](https://de.wikipedia.org/wiki/OCX), etc.)
-* Optional LZMA compression
+* Optional [LZMA](https://www.7-zip.org/) compression
 * In-place decompression
 * Static TLS support
 * Support for mac-darwin-i386, mac-darwin-x86_64 and mac-darwin-ub applications
