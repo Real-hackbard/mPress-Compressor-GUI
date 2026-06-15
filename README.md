@@ -35,7 +35,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 * Static TLS([Thread Local Storage](https://en.wikipedia.org/wiki/Thread-local_storage)) support
 * Support for mac-darwin-i386, mac-darwin-x86_64 and mac-darwin-ub applications
 * Very fast decompression: ~210 MB/sec on an AMD 2500+
-* Strip sensitive information (relocation, debug information, exceptions, etc.)
+* Strip sensitive information ([relocation](https://en.wikipedia.org/wiki/Relocation_(computing)), debug information, exceptions, etc.)
 * Compression of program code, data, and resources
 * Completely transparent, self-contained operation with [UNICODE](https://en.wikipedia.org/wiki/Unicode) support
 * Command line interface allows to use MPRESS from a batch or from a make file
