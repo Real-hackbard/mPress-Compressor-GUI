@@ -20,7 +20,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 
 </br>
 
-![mPress Compressor GUI](https://github.com/user-attachments/assets/08b297d4-e9ff-4d21-8039-bab74f1558ee)
+<img src="https://github.com/user-attachments/assets/265bce77-791b-42d7-ac3e-a2e19e52e151" />
 
 </br>
 
