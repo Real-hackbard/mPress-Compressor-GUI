@@ -75,7 +75,7 @@ LZMAT Features:
 Download LZMAT compression library v1.0:  http://www.matcode.com/lzmat_lib.zip  
 Download LZMAT_GUI application v0.51:  http://www.matcode.com/lzmat_gui.zip
 
-### ```If the link doesn't work, right mouse button "Save target as".```
+```If the link doesn't work, right mouse button "Save target as".```
 
 </br>
 
