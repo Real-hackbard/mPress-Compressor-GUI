@@ -29,7 +29,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 * Advanced compression of .NET executable files (anyCPU,x86,AMD64,IA64 EXE)
 * Support for MS Framework 1.1/2.0/3.0/4.0
 * Does not require .NET Framework to be installed
-* Advanced compression of PE32/PE32+ (AMD64) executable files (EXE, DLL, OCX, etc.)
+* Advanced compression of PE32/PE32+ (AMD64) executable files ([EXE](https://en.wikipedia.org/wiki/.exe), [DLL](https://en.wikipedia.org/wiki/Dynamic-link_library), [OCX](https://de.wikipedia.org/wiki/OCX), etc.)
 * Optional LZMA compression
 * In-place decompression
 * Static TLS support
