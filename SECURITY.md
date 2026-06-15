@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
-| 1.0.x   | :white_check_mark: Precise waiting for the compression process to complete, DumpHEX Compressed File|
+| 1.0.x   | :white_check_mark: Precise waiting for the compression process to complete, DumpHEX Compressed File, Include Options |
 
 ## Reporting a Vulnerability
 
