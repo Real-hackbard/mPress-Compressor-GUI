@@ -73,8 +73,6 @@ LZMAT Features:
 * Small decompression procedure
 * LMAT algorithms and implementation are distributed under the terms of the GNU General Public License (GPL) . Special licenses for commercial and other applications are available by contacting the author.
 
-</br>
-
 ### Platforms: x86, x64(AMD64)
 Download LZMAT compression library v1.0:  http://www.matcode.com/lzmat_lib.zip  
 Download LZMAT_GUI application v0.51:  http://www.matcode.com/lzmat_gui.zip
@@ -87,6 +85,14 @@ If the link doesn't work, right mouse button "Save target as".
 In computing, a hex dump is a textual hexadecimal view (on screen or paper) of computer data, from memory or from a computer file or storage device. Use of a hex dump of data is usually done in the context of either debugging, [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering) or digital forensics. Interactive editors that provide a similar view but also manipulating the data in question are called [hex editors](https://en.wikipedia.org/wiki/Hex_editor).
 
 In a hex dump, each byte (8 bits) is represented as a two-digit hexadecimal number. Hex dumps are commonly organized into rows of 8 or 16 bytes, sometimes separated by whitespaces. Some hex dumps have the hexadecimal memory address at the beginning. On systems where the conventional representation of data is [octal](https://en.wikipedia.org/wiki/Octal), the equivalent is an octal dump.
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/c96912d3-d550-441d-b788-fed4b0ac0a49" />
+
+</br>
+
+The leftmost column is the hexadecimal displacement (or address) for the values of the following columns. Each row displays 16 bytes, with the exception of the row containing a single *. The * is used to indicate multiple occurrences of the same display were omitted. The last line displays the number of bytes taken from the input.
 
 </br>
 
