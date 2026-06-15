@@ -39,7 +39,7 @@ in March 2011 Mr. DonDD has created and published his MPRESS GUI, see link below
 * Compression of program code, data, and resources
 * Completely transparent, self-contained operation with [UNICODE](https://en.wikipedia.org/wiki/Unicode) support
 * Command line interface allows to use MPRESS from a batch or from a make file
-* Full Windows 9x/NT/2000/XP/2003/Vista/2008/Windows8 compatibility
+* Full Windows 9x/NT/2000/XP/2003/Vista/2008/Windows8, Win10, Win11 compatibility
 * Operation Systems: Windows 9x/NT/2000/XP/2003/Vista/2008/Windows7, Win8, Win10, Win11, MAC-OS 10.3/10.4
 * Platforms: x86(PE32), x64(PE32+,AMD64), .NET
 
