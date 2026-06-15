@@ -54,7 +54,7 @@ Download MAC-MPRESS v1.21 (for MAC Applications ONLY!): https://www.autohotkey.c
 Link to download Mpress GUI v0.2 (by DonDD) Mpress GUI v0.2: https://www.autohotkey.com/mpress/mpress_web.htm  
 
 
-### LZMAT
+# LZMAT
 LZMAT is an extremely fast real-time lossless data compression library!
 
 LZMAT library v1.0 is written for x86 and x64 (AMD64) architectures. LZMAT_GUI is a 32bit Windows application which uses LZMAT compression library and demonstrates the compression speed. This program can be used to compress some big files or directories (i.e. VM images, disc images, for backup of some important folders,...).
