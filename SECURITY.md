@@ -8,6 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
+| 1.0.x   | :white_check_mark: Waiting for compression process, DumpHEX Compressed File|
 
 ## Reporting a Vulnerability
 
