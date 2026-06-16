@@ -88,7 +88,7 @@ This dumpHEX is not an editor in the true sense and only features a search funct
 
 </br>
 
-<img src="https://github.com/user-attachments/assets/c96912d3-d550-441d-b788-fed4b0ac0a49" />
+<img src="https://github.com/user-attachments/assets/5e80f664-2bbc-48d2-868b-e8119cdf48eb" />
 
 </br>
 </br>
