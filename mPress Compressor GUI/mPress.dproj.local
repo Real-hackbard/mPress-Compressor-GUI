@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\Incoming\[.WORK]\mPress Compressor GUI\mPress Compressor GUI\Unit2.pas=D:\Incoming\[.WORK]\mPress Compressor GUI\mPress Compressor GUI\DumpHEX.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=D:\Incoming\[.WORK]\mPress Compressor GUI\mPress Compressor GUI\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\Incoming\[.WORK]\mPress Compressor GUI\mPress Compressor GUI\Unit2.dfm=D:\Incoming\[.WORK]\mPress Compressor GUI\mPress Compressor GUI\DumpHEX.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
